@@ -1,5 +1,5 @@
 # git-pulling-merging-practice
-how are you
+how are u
 bye
 
 i like cream cheese jelly and bagel 
